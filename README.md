@@ -1,9 +1,6 @@
 # LinuxTriz
 Funny trix
 
-# LinuxTriz	# LinuxTriz
-Funny trix	Funny trix
-
 Any linux os:
  Go to the terminal 
  Make a directory by typing mkdir name
