@@ -1,0 +1,2 @@
+# LinuxTriz
+Funny trix
