@@ -1,5 +1,5 @@
-# LinuxTriz
-Funny trix
+# LUBA
+
 
 Any linux os:
  Go to the terminal 
